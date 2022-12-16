@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/spacemaker-app/static/css/main.046dfe1a.css",
+    "main.js": "/spacemaker-app/static/js/main.0ea22b2b.js",
+    "static/js/787.4c158fe0.chunk.js": "/spacemaker-app/static/js/787.4c158fe0.chunk.js",
+    "static/media/spacemaker-logo.png": "/spacemaker-app/static/media/spacemaker-logo.306d3f2bab5bbb1c11b2.png",
+    "index.html": "/spacemaker-app/index.html",
+    "main.046dfe1a.css.map": "/spacemaker-app/static/css/main.046dfe1a.css.map",
+    "main.0ea22b2b.js.map": "/spacemaker-app/static/js/main.0ea22b2b.js.map",
+    "787.4c158fe0.chunk.js.map": "/spacemaker-app/static/js/787.4c158fe0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.046dfe1a.css",
+    "static/js/main.0ea22b2b.js"
+  ]
+}
