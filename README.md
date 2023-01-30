@@ -8,7 +8,7 @@ The web application is built using React.
 
 
 ## View web application
-The web application can be viewed at <https://mikell1.github.io/spacemaker-app/>
+The web application can be viewed at <https://mikkellu.github.io/spacemaker-app/>
 
 ## Preview
 
